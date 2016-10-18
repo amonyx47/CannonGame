@@ -301,3 +301,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+DeloJ/DeloJ/Properties/AssemblyInfo.cs
+*.resx
+DeloJ/DeloJ/Properties/Settings.settings
+*.png
+*.jpg
+DeloJ/DeloJ/Properties/Settings.Designer.cs
+DeloJ/DeloJ/Properties/Resources.Designer.cs
